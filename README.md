@@ -86,6 +86,6 @@ Result Loss:
 
 ![image](https://user-images.githubusercontent.com/55201272/110081464-8d21e880-7dbe-11eb-81d8-8539aa21c521.png)
 
-Based on this exercise loss training still overfitting compare to loss testing based on 300 epochs.
+Based on this exercise loss training still overfitting compare to most testing loss after 300 times result.
 
 
