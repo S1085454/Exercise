@@ -1,7 +1,7 @@
 # Exercise
 Understand the basic concept of Machine Learning ( Source: https://github.com/TienLungSun/2020-PyTorch-Colab)
 
-1.2.1. Learn from sparse data-Exercise Natan - Try to adding more neural network layers and check the loss result behavior.
+**1.2.1. Learn from sparse data-Exercise Natan - Try to adding more neural network layers and check the loss result behavior.
 Action: Adding NN Layers
 MyNet = nn.Sequential(
     nn.Linear(1, 50),
@@ -17,7 +17,7 @@ MyNet = nn.Sequential(
  Result: Loss on training was better than before.
  ![image](https://user-images.githubusercontent.com/55201272/110065501-d748a100-7da1-11eb-9a3a-1d6c026ad5c2.png)
  
- 1.2.2. Overfitting-Exercise Natan - Understand the concept of overfitting and try to solve this issue.
+ **1.2.2. Overfitting-Exercise Natan - Understand the concept of overfitting and try to solve this issue.
  
  Action: Adding NN (no impact than before), Lock random state number, Add L1 regularization.
  
@@ -50,7 +50,8 @@ Testing Loss:
 
 ![image](https://user-images.githubusercontent.com/55201272/110067619-af0f7100-7da6-11eb-84e1-8ddbc5dfe01d.png)
 
-1.2.3. Regularization
+**1.2.3. Regularization
+
  Best L1:
  
  ![image](https://user-images.githubusercontent.com/55201272/110074948-9a39da00-7db4-11eb-87bc-478c9e4230bf.png)
