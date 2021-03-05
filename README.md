@@ -66,7 +66,19 @@ Ref regularization function: https://towardsdatascience.com/l1-and-l2-regulariza
  Testing:
  ![image](https://user-images.githubusercontent.com/55201272/110074933-9312cc00-7db4-11eb-98af-8c60ce577ec9.png)
 
+  Best L2:
  
+ ![image](https://user-images.githubusercontent.com/55201272/110075274-1fbd8a00-7db5-11eb-9f4c-0e99ae55f0b4.png)
+
+
+ Training:
+ ![image](https://user-images.githubusercontent.com/55201272/110075288-25b36b00-7db5-11eb-9d40-f360c337d179.png)
+
+
+ Testing:
+ ![image](https://user-images.githubusercontent.com/55201272/110075308-2ea43c80-7db5-11eb-9b66-b8cbae5425f2.png)
+
+From regularization using L2, overfitting still occured.
 
 
 
