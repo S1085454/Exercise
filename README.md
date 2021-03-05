@@ -1,5 +1,6 @@
 # Exercise
 Understand the basic concept of Machine Learning ( Source: https://github.com/TienLungSun/2020-PyTorch-Colab)
+
 1.2.1. Learn from sparse data-Exercise Natan - Try to adding more neural network layers and check the loss result behavior.
 Action: Adding NN Layers
 MyNet = nn.Sequential(
