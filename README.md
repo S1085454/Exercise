@@ -34,7 +34,10 @@ y = 3*x + random.uniform(0, 1)*100
 ![image](https://user-images.githubusercontent.com/55201272/110066786-dcf3b600-7da4-11eb-82ae-fc6382e136b7.png)
 
 
-Add L1 regularization
+Add L1 regularization on training mode:
+
+![image](https://user-images.githubusercontent.com/55201272/110066972-3c51c600-7da5-11eb-9aec-b37353db5da4.png)
+
 
 Result:
 
