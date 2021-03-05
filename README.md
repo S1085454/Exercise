@@ -55,7 +55,7 @@ Testing Loss:
 
 Ref regularization function: https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
 
- Best L1:
+ Best L1 Found:
  
  ![image](https://user-images.githubusercontent.com/55201272/110074948-9a39da00-7db4-11eb-87bc-478c9e4230bf.png)
 
@@ -66,7 +66,7 @@ Ref regularization function: https://towardsdatascience.com/l1-and-l2-regulariza
  Testing:
  ![image](https://user-images.githubusercontent.com/55201272/110074933-9312cc00-7db4-11eb-98af-8c60ce577ec9.png)
 
-  Best L2:
+  Best L2 Found:
  
  ![image](https://user-images.githubusercontent.com/55201272/110075274-1fbd8a00-7db5-11eb-9f4c-0e99ae55f0b4.png)
 
