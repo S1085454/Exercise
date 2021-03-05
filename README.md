@@ -43,11 +43,13 @@ Result:
 
 Training Loss:
 
-![image](https://user-images.githubusercontent.com/55201272/110066309-ba14d200-7da3-11eb-86ce-826c24ff8e09.png)
+![image](https://user-images.githubusercontent.com/55201272/110067604-a9b22680-7da6-11eb-93cf-71bc93778487.png)
+
 
 Testing Loss:
 
-![image](https://user-images.githubusercontent.com/55201272/110066332-c436d080-7da3-11eb-86a0-196a19771d8c.png)
+![image](https://user-images.githubusercontent.com/55201272/110067619-af0f7100-7da6-11eb-84e1-8ddbc5dfe01d.png)
+
 
 
 
