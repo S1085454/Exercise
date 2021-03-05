@@ -18,6 +18,7 @@ MyNet = nn.Sequential(
  ![image](https://user-images.githubusercontent.com/55201272/110065501-d748a100-7da1-11eb-9a3a-1d6c026ad5c2.png)
  
  1.2.2. Overfitting-Exercise Natan - Understand the concept of overfitting and try to solve this issue.
+ 
  Action: Adding NN (no impact than before), Lock random state number, Add L1 regularization.
  
 Training loss:
@@ -26,7 +27,8 @@ Training loss:
 Testing Loss:
 ![image](https://user-images.githubusercontent.com/55201272/110065702-59d16080-7da2-11eb-8954-759d3e4a5aa6.png)
 
-The problem is the Y variable is always changing and the Y result always different for every new trying. (lock the random seed)
+The problem is the Y variable is always changing and the Y result always different for every new trying. 
+(lock the random seed)
 y = 3*x + random.uniform(0, 1)*100
 
 ![image](https://user-images.githubusercontent.com/55201272/110066786-dcf3b600-7da4-11eb-82ae-fc6382e136b7.png)
