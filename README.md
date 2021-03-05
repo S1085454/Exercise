@@ -50,6 +50,19 @@ Testing Loss:
 
 ![image](https://user-images.githubusercontent.com/55201272/110067619-af0f7100-7da6-11eb-84e1-8ddbc5dfe01d.png)
 
+1.2.3. Regularization
+ Best L1:
+ 
+ ![image](https://user-images.githubusercontent.com/55201272/110074948-9a39da00-7db4-11eb-87bc-478c9e4230bf.png)
+
+ 
+ Training:
+ ![image](https://user-images.githubusercontent.com/55201272/110074893-85f5dd00-7db4-11eb-9191-acb2626ee109.png)
+
+ Testing:
+ ![image](https://user-images.githubusercontent.com/55201272/110074933-9312cc00-7db4-11eb-98af-8c60ce577ec9.png)
+
+ 
 
 
 
