@@ -80,5 +80,12 @@ Ref regularization function: https://towardsdatascience.com/l1-and-l2-regulariza
 
 From regularization using L2, overfitting still occured.
 
+**1.2.4. Variance of predicting error-Exercise Natan - Try to adjust NN for lower variance**
+
+Result Loss:
+
+![image](https://user-images.githubusercontent.com/55201272/110081464-8d21e880-7dbe-11eb-81d8-8539aa21c521.png)
+
+Based on this exercise loss training still overfitting compare to loss testing based on 300 epochs.
 
 
